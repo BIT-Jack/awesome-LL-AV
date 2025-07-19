@@ -26,8 +26,6 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[CCL: Continual contrastive learning for LiDAR place recognition](https://arxiv.org/pdf/2303.13952)|[CCL](https://github.com/cloudcjf/ccl)|IEEE RA-L|2023|
 |[Bioslam: A bioinspired lifelong memory system for general place recognition](https://arxiv.org/pdf/2208.14543)|BioSLAM|IEEE T-RO|2023|
 |[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 |[Continual slam: Beyond lifelong simultaneous localization and mapping through continual learning](https://arxiv.org/pdf/2203.01578)|[CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)|ISRR|2022|
 ## Prediction
 |Title|Code|Venue|Date|
