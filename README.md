@@ -49,8 +49,6 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |:---|:---|:---|:---|
 |[A rapid adapting and continual learning spiking neural network path planning algorithm for mobile robots](https://arxiv.org/pdf/2404.15524)|E-SWP|IEEE RA-L|2024|
 |[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 |[DNN patching: progressive fixing and augmenting the functionalities of DNNs for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9691893)|DNN Patching|IEEE RA-L|2022|
 |[Lifelong multi-agent path finding in large-scale warehouses](https://ojs.aaai.org/index.php/AAAI/article/download/17344/17151)|[RHCR](https://github.com/Jiaoyang-Li/RHCR)|AAAI|2021|
 |[A lifelong learning approach to mobile robot navigation](https://ieeexplore.ieee.org/abstract/document/9345478)|[LLfN](https://github.com/Cranial-XIX/LifelongLearningforNavigation)|IEEE RA-L|2021|
