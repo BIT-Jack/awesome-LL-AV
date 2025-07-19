@@ -35,9 +35,6 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Continual interactive behavior learning with traffic divergence measurement: A dynamic gradient scenario memory approach](https://arxiv.org/pdf/2212.11167)|[D-GSM](https://github.com/BIT-Jack/D-GSM)|IEEE T-ITS|2023|
 |[Lifelong vehicle trajectory prediction framework based on generative replay](https://arxiv.org/pdf/2111.07511)|[R2GAN](https://github.com/cliffbao/grtp)|IEEE T-ITS|2023|
 |[The foreseeable future: Self-supervised learning to predict dynamic scenes for indoor navigation](https://arxiv.org/pdf/2208.12602)|[Deep-SOGM](https://github.com/utiasasrl/crystal_ball_nav)|IEEE T-RO|2023|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 |[Self-supervised traffic advisors: distributed, multi-view traffic prediction for smart cities](https://arxiv.org/pdf/2204.06171)|[SSTA](https://github.com/Jiankai-Sun/SSTA_ITSC_2022)|IEEE ITSC|2022|
 |[Continual pedestrian trajectory learning with social generative replay](https://research.tue.nl/files/273673573/Continual_Pedestrian_Trajectory_Learning_With_Social_Generative_Replay.pdf)|[CL-SGR](https://github.com/tue-mps/cptl_with_social_gr)|IEEE RA-L|2022|
 |[Continual multi-agent interaction behavior prediction with conditional generative memory](https://jiachenli94.github.io/publications/Mix/RAL2021.pdf)|C-GenMem|IEEE RA-L|2021|
