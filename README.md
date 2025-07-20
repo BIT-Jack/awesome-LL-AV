@@ -11,7 +11,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Adaptive robot traversability estimation based on self-supervised online continual learning in unstructured environments](https://ieeexplore.ieee.org/abstract/document/10494895)|[ARTE](https://github.com/RuiYang-1010/lstol)|IEEE RA-L|2024|
 |[Taxonomy-aware continual semantic segmentation in hyperbolic spaces for open-world perception](https://arxiv.org/pdf/2407.18145?)|TOPICS|IEEE RA-L|2024|
 |[Online analytic exemplar-free continual learning with large models for imbalanced autonomous driving task](https://arxiv.org/pdf/2405.17779?)|AEF-OCL|IEEE T-VT|2024|
-|[Lifelong change detection: Continuous domain adaptation for small object change detection in everyday robot navigation](https://hal.science/hal-04691842/document)|[LSTOL](https://github.com/RuiYang-1010/lstol)|IRSO|2024|
+|[Preventing Catastrophic Forgetting in Continuous Online Learning for Autonomous Driving](https://hal.science/hal-04691842/document)|[LSTOL](https://github.com/RuiYang-1010/lstol)|IRSO|2024|
 |[Lifelong change detection: Continuous domain adaptation for small object change detection in everyday robot navigation](https://ieeexplore.ieee.org/abstract/document/10215686)|LCD|MAV|2023|
 |[OpenNet: Incremental Learning for Autonomous Driving Object Detection with Balanced Loss](https://arxiv.org/pdf/2311.14939)|OpenNet|SMC|2023|
 |[An efficient domain-incremental learning approach to drive in all weather conditions](https://openaccess.thecvf.com/content/CVPR2022W/V4AS/papers/Mirza_An_Efficient_Domain-Incremental_Learning_Approach_To_Drive_in_All_Weather_CVPRW_2022_paper.pdf)|[DISC](https://github.com/jmiemirza/dua)|CVPR|2022|
