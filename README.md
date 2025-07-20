@@ -2,7 +2,7 @@
 
 This is the official repository of paper _''A Survey on Lifelong Learning for Autonomous Vehicles: Methods, Benchmarks, Challenges and Future Directions'', Yunlong Lin, Sizhe Fan, Tongshuai Wu, Chao Lu, and Jianwei Gong_. The paper is submitted to the journal _IEEE Transactions on Pattern Analysis and Machine Intelligence_ for peer review.
 
-![Framework of the survey](./Fig_overview.pdf)
+![Framework of the survey](./Fig_overview.tiff)
 
 
 ## Perception
