@@ -86,7 +86,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Crowds by example](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3921f459a9ee26827963abc4abf013b4cc9cbd32)|[UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)|Computer Graphics Forum|2007|
 |[The next generation simulation program](https://www.proquest.com/openview/25734e9b4c6254af9247b4fd888ef86e/1?pq-origsite=gscholar&cbl=42116)|[NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj/about_data)|ITE|2004|
 ## Simulator
-|Title|Website Link|Venue|Date|
+|Title|Resource Link|Venue|Date|
 |:---|:---|:---|:---|
 |[Lgsvl simulator: A high fidelity simulator for autonomous driving](https://arxiv.org/pdf/2005.03778)|[LGSVL](https://github.com/lgsvl/simulator)|IEEE ITSC|2020|
 |[Gibson env: Real-world perception for embodied agents](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_Gibson_Env_Real-World_CVPR_2018_paper.pdf)|[Gibson](https://github.com/StanfordVL/GibsonEnv)|CVPR|2018|
