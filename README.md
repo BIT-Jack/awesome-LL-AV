@@ -18,7 +18,6 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[ADS-lead: Lifelong anomaly detection in autonomous driving systems](https://tianweiz07.github.io/Papers/23-TITS.pdf)|ADS-Lead|IEEE T-ITS|2022|
 |[Few-shot class-incremental learning via compact and separable features for fine-grained vehicle recognition](https://ieeexplore.ieee.org/abstract/document/9780261)|CSFL|IEEE T-ITS|2022|
 |[CLAIRE: enabling continual learning for real-time autonomous driving with a dual-head architecture](https://par.nsf.gov/servlets/purl/10357064)|CLAIRE|ISORC|2022|
-|[CLAIRE: enabling continual learning for real-time autonomous driving with a dual-head architecture](https://par.nsf.gov/servlets/purl/10357064)|CLAIRE|ISORC|2022|
 |[Continual learning strategy in one-stage object detection framework based on experience replay for autonomous driving vehicle](https://www.mdpi.com/1424-8220/20/23/6777/pdf)|ER-YOLO|Sensors|2020|
 ## Localization
 |Title|Code|Venue|Date|
