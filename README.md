@@ -57,7 +57,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Continual reinforcement learning for autonomous driving with application on velocity control under various environment](https://drive.google.com/file/d/1JC269VOTrBDnEGDuO6SI5UHJ2OPe1q3P/view)|EM-SAC|CVCI|2023|
 |[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 ## Dataset
-|Title|Code|Venue|Date|
+|Title|Resource Link|Venue|Date|
 |:---|:---|:---|:---|
 |[Coda: A real-world road corner case dataset for object detection in autonomous driving](https://arxiv.org/pdf/2203.07724)|[CODA](https://coda-dataset.github.io/)|ECCV|2022|
 |[Alita: A large-scale incremental dataset for long-term autonomy](https://arxiv.org/pdf/2205.10737)|[ALITA](https://metaslam.github.io/datasets/alita/)|arXiv|2022|
@@ -86,7 +86,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Crowds by example](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3921f459a9ee26827963abc4abf013b4cc9cbd32)|[UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)|Computer Graphics Forum|2007|
 |[The next generation simulation program](https://www.proquest.com/openview/25734e9b4c6254af9247b4fd888ef86e/1?pq-origsite=gscholar&cbl=42116)|[NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj/about_data)|ITE|2004|
 ## Simulator
-|Title|Code|Venue|Date|
+|Title|Website Link|Venue|Date|
 |:---|:---|:---|:---|
 |[Lgsvl simulator: A high fidelity simulator for autonomous driving](https://arxiv.org/pdf/2005.03778)|[LGSVL](https://github.com/lgsvl/simulator)|IEEE ITSC|2020|
 |[Gibson env: Real-world perception for embodied agents](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_Gibson_Env_Real-World_CVPR_2018_paper.pdf)|[Gibson](https://github.com/StanfordVL/GibsonEnv)|CVPR|2018|
