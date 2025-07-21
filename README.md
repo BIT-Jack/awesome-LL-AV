@@ -23,9 +23,11 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |Title|Code|Venue|Date|
 |:---|:---|:---|:---|
 |[CCL: Continual contrastive learning for LiDAR place recognition](https://arxiv.org/pdf/2303.13952)|[CCL](https://github.com/cloudcjf/ccl)|IEEE RA-L|2023|
+|[Data-driven indoor positioning correction for infrastructure-enabled autonomous driving systems: A lifelong framework](https://research.tue.nl/files/295467404/Data_Driven_Indoor_Positioning_Correction_for_Infrastructure_Enabled_Autonomous_Driving_Systems_A_Lifelong_Framework.pdf)|-|IEEE T-ITS|2023|
 |[Bioslam: A bioinspired lifelong memory system for general place recognition](https://arxiv.org/pdf/2208.14543)|BioSLAM|IEEE T-RO|2023|
-|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
+|[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[code](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 |[Continual slam: Beyond lifelong simultaneous localization and mapping through continual learning](https://arxiv.org/pdf/2203.01578)|[CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)|ISRR|2022|
+|[Cross-scene loop-closure detection with continual learning for visual simultaneous localization and mapping](https://journals.sagepub.com/doi/pdf/10.1177/17298814211050560)|-|IJARS|2021|
 ## Prediction
 |Title|Code|Venue|Date|
 |:---|:---|:---|:---|
