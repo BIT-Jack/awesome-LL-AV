@@ -8,7 +8,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 
 ## Lifelong Learning Methods for Autonomous Vehicles
 ### Perception
-|Title|Method(code)|Journal/Conference|Year|
+|Title|Code|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Adaptive Robot Traversability Estimation Based on Self-supervised Online Continual Learning in Unstructured Environments](https://ieeexplore.ieee.org/abstract/document/10494895)|[ARTE](https://github.com/RuiYang-1010/lstol)|IEEE RA-L|2024|
 |[Taxonomy-aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-world Perception](https://arxiv.org/pdf/2407.18145?)|TOPICS|IEEE RA-L|2024|
@@ -22,7 +22,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[CLAIRE: Enabling Continual Learning for Real-Time Autonomous Driving with a Dual-head Architecture](https://par.nsf.gov/servlets/purl/10357064)|CLAIRE|ISORC|2022|
 |[Continual Learning Strategy in One-stage Object Detection Framework based on Experience Replay for Autonomous Driving Vehicle](https://www.mdpi.com/1424-8220/20/23/6777/pdf)|ER-YOLO|Sensors|2020|
 ### Localization
-|Title|Method(code)|Journal/Conference|Year|
+|Title|Code|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[CCL: Continual contrastive learning for LiDAR place recognition](https://arxiv.org/pdf/2303.13952)|[CCL](https://github.com/cloudcjf/ccl)|IEEE RA-L|2023|
 |[Data-driven indoor positioning correction for infrastructure-enabled autonomous driving systems: A lifelong framework](https://research.tue.nl/files/295467404/Data_Driven_Indoor_Positioning_Correction_for_Infrastructure_Enabled_Autonomous_Driving_Systems_A_Lifelong_Framework.pdf)|-|IEEE T-ITS|2023|
@@ -31,7 +31,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Continual slam: Beyond lifelong simultaneous localization and mapping through continual learning](https://arxiv.org/pdf/2203.01578)|[CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)|ISRR|2022|
 |[Cross-scene loop-closure detection with continual learning for visual simultaneous localization and mapping](https://journals.sagepub.com/doi/pdf/10.1177/17298814211050560)|-|IJARS|2021|
 ### Prediction
-|Title|Method(code)|Journal/Conference|Year|
+|Title|Code|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Continual Learning for Motion Prediction Model via Meta-Representation Learning and Optimal Memory Buffer Retention Strategy](openaccess.thecvf.com/content/CVPR2024/papers/Kang_Continual_Learning_for_Motion_Prediction_Model_via_Meta-Representation_Learning_and_CVPR_2024_paper.pdf)|-|CVPR|2024|
 |[Towards Zero-Forgetting Continual Learning for Interactive Trajectory Prediction: A Dynamically Expandable Approach](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5042678)|DEITP|SSRN|2024|
@@ -46,7 +46,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Continual multi-agent interaction behavior prediction with conditional generative memory](https://jiachenli94.github.io/publications/Mix/RAL2021.pdf)|C-GenMem|IEEE RA-L|2021|
 |[SILA: An incremental learning approach for pedestrian trajectory prediction](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w66/Habibi_SILA_An_Incremental_Learning_Approach_for_Pedestrian_Trajectory_Prediction_CVPRW_2020_paper.pdf)|SILA|CVPR|2020|
 ### Planning
-|Title|Method(code)|Journal/Conference|Year|
+|Title|Code|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Cross-Scenario End-to-End Motion Planning in Off-Road Environment: A Lifelong Learning Perspective](https://ieeexplore.ieee.org/abstract/document/10839320)|-|IEEE RA-L|2025|
 |[Human-guided continual learning for personalized decision-making of autonomous driving](https://ieeexplore.ieee.org/abstract/document/10844014/)|-|IEEE T-ITS|2025|
@@ -59,7 +59,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Lifelong federated reinforcement learning: A learning architecture for navigation in cloud robotic systems](https://arxiv.org/pdf/1901.06455)|LFRL|IEEE RA-L|2019|
 |[Incremental lifelong deep learning for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/8569992/)|CBIL|IEEE ITSC|2018|
 ### Motion control
-|Title|Method(code)|Journal/Conference|Year|
+|Title|Code|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Beyond imitation: A life-long policy learning framework for path tracking control of autonomous driving](https://arxiv.org/pdf/2404.17198)|LLPL|IEEE T-VT|2024|
 |[Continual reinforcement learning for autonomous driving with application on velocity control under various environment](https://drive.google.com/file/d/1JC269VOTrBDnEGDuO6SI5UHJ2OPe1q3P/view)|EM-SAC|CVCI|2023|
