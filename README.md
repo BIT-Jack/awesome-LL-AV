@@ -6,7 +6,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 
 
 ## Perception
-|Title|Code|Venue|Date|
+|Title|Method(Code)|Venue|Date|
 |:---|:---|:---|:---|
 |[Adaptive robot traversability estimation based on self-supervised online continual learning in unstructured environments](https://ieeexplore.ieee.org/abstract/document/10494895)|[ARTE](https://github.com/RuiYang-1010/lstol)|IEEE RA-L|2024|
 |[Taxonomy-aware continual semantic segmentation in hyperbolic spaces for open-world perception](https://arxiv.org/pdf/2407.18145?)|TOPICS|IEEE RA-L|2024|
