@@ -66,7 +66,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 
 
-## Used Benchmarks in Lifelong Learning Studies for Autonomous Vehicles
+## Benchmarks Used in Lifelong Learning Studies for Autonomous Vehicles
 ### Dataset
 |Title|Resource Link|Journal/Conference|Year|
 |:---|:---|:---|:---|
