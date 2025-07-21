@@ -9,16 +9,16 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |Title|Method(code)|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Adaptive Robot Traversability Estimation Based on Self-supervised Online Continual Learning in Unstructured Environments](https://ieeexplore.ieee.org/abstract/document/10494895)|[ARTE](https://github.com/RuiYang-1010/lstol)|IEEE RA-L|2024|
-|[Taxonomy-aware continual semantic segmentation in hyperbolic spaces for open-world perception](https://arxiv.org/pdf/2407.18145?)|TOPICS|IEEE RA-L|2024|
-|[Online analytic exemplar-free continual learning with large models for imbalanced autonomous driving task](https://arxiv.org/pdf/2405.17779?)|AEF-OCL|IEEE T-VT|2024|
+|[Taxonomy-aware Continual Semantic Segmentation in Hyperbolic Spaces for Open-world Perception](https://arxiv.org/pdf/2407.18145?)|TOPICS|IEEE RA-L|2024|
+|[Online Analytic Exemplar-free Continual Learning with Large Models for Imbalanced Autonomous Driving Task](https://arxiv.org/pdf/2405.17779?)|AEF-OCL|IEEE T-VT|2024|
 |[Preventing Catastrophic Forgetting in Continuous Online Learning for Autonomous Driving](https://hal.science/hal-04691842/document)|[LSTOL](https://github.com/RuiYang-1010/lstol)|IRSO|2024|
-|[Lifelong change detection: Continuous domain adaptation for small object change detection in everyday robot navigation](https://ieeexplore.ieee.org/abstract/document/10215686)|LCD|MAV|2023|
+|[Lifelong Change Detection: Continuous Domain Adaptation for Small Object Change Detection in Everyday Robot Navigation](https://ieeexplore.ieee.org/abstract/document/10215686)|LCD|MAV|2023|
 |[OpenNet: Incremental Learning for Autonomous Driving Object Detection with Balanced Loss](https://arxiv.org/pdf/2311.14939)|OpenNet|SMC|2023|
-|[An efficient domain-incremental learning approach to drive in all weather conditions](https://openaccess.thecvf.com/content/CVPR2022W/V4AS/papers/Mirza_An_Efficient_Domain-Incremental_Learning_Approach_To_Drive_in_All_Weather_CVPRW_2022_paper.pdf)|[DISC](https://github.com/jmiemirza/dua)|CVPR|2022|
-|[ADS-lead: Lifelong anomaly detection in autonomous driving systems](https://tianweiz07.github.io/Papers/23-TITS.pdf)|ADS-Lead|IEEE T-ITS|2022|
-|[Few-shot class-incremental learning via compact and separable features for fine-grained vehicle recognition](https://ieeexplore.ieee.org/abstract/document/9780261)|CSFL|IEEE T-ITS|2022|
-|[CLAIRE: enabling continual learning for real-time autonomous driving with a dual-head architecture](https://par.nsf.gov/servlets/purl/10357064)|CLAIRE|ISORC|2022|
-|[Continual learning strategy in one-stage object detection framework based on experience replay for autonomous driving vehicle](https://www.mdpi.com/1424-8220/20/23/6777/pdf)|ER-YOLO|Sensors|2020|
+|[An Efficient Domain-incremental Learning Approach to Drive in All Weather Conditions](https://openaccess.thecvf.com/content/CVPR2022W/V4AS/papers/Mirza_An_Efficient_Domain-Incremental_Learning_Approach_To_Drive_in_All_Weather_CVPRW_2022_paper.pdf)|[DISC](https://github.com/jmiemirza/dua)|CVPR|2022|
+|[ADS-lead: Lifelong Anomaly Detection in Autonomous Driving Systems](https://tianweiz07.github.io/Papers/23-TITS.pdf)|ADS-Lead|IEEE T-ITS|2022|
+|[Few-shot Class-incremental Learning via Compact and Separable Features for Fine-grained Vehicle Recognition](https://ieeexplore.ieee.org/abstract/document/9780261)|CSFL|IEEE T-ITS|2022|
+|[CLAIRE: Enabling Continual Learning for Real-Time Autonomous Driving with a Dual-head Architecture](https://par.nsf.gov/servlets/purl/10357064)|CLAIRE|ISORC|2022|
+|[Continual Learning Strategy in One-stage Object Detection Framework based on Experience Replay for Autonomous Driving Vehicle](https://www.mdpi.com/1424-8220/20/23/6777/pdf)|ER-YOLO|Sensors|2020|
 ## Localization
 |Title|Method(code)|Journal/Conference|Year|
 |:---|:---|:---|:---|
