@@ -98,4 +98,5 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Gibson env: Real-world perception for embodied agents](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_Gibson_Env_Real-World_CVPR_2018_paper.pdf)|[Gibson](https://github.com/StanfordVL/GibsonEnv)|CVPR|2018|
 |[CARLA: An open urban driving simulator](https://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)|[CARLA](https://github.com/carla-simulator/carla)|CoRL|2017|
 |[Design and use paradigms for gazebo, an open-source multi-robot simulator](https://web.archive.org/web/20170809185529id_/http://robotics.usc.edu/publications/media/uploads/pubs/394.pdf)|[Gazebo](https://gazebosim.org/home)|IRSO|2004|
+|Blender Simulator |[Blender](https://www.blender.org/download/releases/4-3/)|-|-|
 
