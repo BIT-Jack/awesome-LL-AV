@@ -6,7 +6,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 
 
 ## Perception
-|Title|Method(Code)|Journal/Conference|Year|
+|Title|Method (code)|Journal / Conference|Year|
 |:---|:---|:---|:---|
 |[Adaptive robot traversability estimation based on self-supervised online continual learning in unstructured environments](https://ieeexplore.ieee.org/abstract/document/10494895)|[ARTE](https://github.com/RuiYang-1010/lstol)|IEEE RA-L|2024|
 |[Taxonomy-aware continual semantic segmentation in hyperbolic spaces for open-world perception](https://arxiv.org/pdf/2407.18145?)|TOPICS|IEEE RA-L|2024|
@@ -20,7 +20,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[CLAIRE: enabling continual learning for real-time autonomous driving with a dual-head architecture](https://par.nsf.gov/servlets/purl/10357064)|CLAIRE|ISORC|2022|
 |[Continual learning strategy in one-stage object detection framework based on experience replay for autonomous driving vehicle](https://www.mdpi.com/1424-8220/20/23/6777/pdf)|ER-YOLO|Sensors|2020|
 ## Localization
-|Title|Method(Code)|Journal/Conference|Year|
+|Title|Method (code)|Journal / Conference|Year|
 |:---|:---|:---|:---|
 |[CCL: Continual contrastive learning for LiDAR place recognition](https://arxiv.org/pdf/2303.13952)|[CCL](https://github.com/cloudcjf/ccl)|IEEE RA-L|2023|
 |[Data-driven indoor positioning correction for infrastructure-enabled autonomous driving systems: A lifelong framework](https://research.tue.nl/files/295467404/Data_Driven_Indoor_Positioning_Correction_for_Infrastructure_Enabled_Autonomous_Driving_Systems_A_Lifelong_Framework.pdf)|-|IEEE T-ITS|2023|
@@ -29,7 +29,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Continual slam: Beyond lifelong simultaneous localization and mapping through continual learning](https://arxiv.org/pdf/2203.01578)|[CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)|ISRR|2022|
 |[Cross-scene loop-closure detection with continual learning for visual simultaneous localization and mapping](https://journals.sagepub.com/doi/pdf/10.1177/17298814211050560)|-|IJARS|2021|
 ## Prediction
-|Title|Method(Code)|Journal/Conference|Year|
+|Title|Method (code)|Journal / Conference|Year|
 |:---|:---|:---|:---|
 |[Continual Learning for Motion Prediction Model via Meta-Representation Learning and Optimal Memory Buffer Retention Strategy](openaccess.thecvf.com/content/CVPR2024/papers/Kang_Continual_Learning_for_Motion_Prediction_Model_via_Meta-Representation_Learning_and_CVPR_2024_paper.pdf)|-|CVPR|2024|
 |[Towards Zero-Forgetting Continual Learning for Interactive Trajectory Prediction: A Dynamically Expandable Approach](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5042678)|DEITP|SSRN|2024|
@@ -44,7 +44,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Continual multi-agent interaction behavior prediction with conditional generative memory](https://jiachenli94.github.io/publications/Mix/RAL2021.pdf)|C-GenMem|IEEE RA-L|2021|
 |[SILA: An incremental learning approach for pedestrian trajectory prediction](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w66/Habibi_SILA_An_Incremental_Learning_Approach_for_Pedestrian_Trajectory_Prediction_CVPRW_2020_paper.pdf)|SILA|CVPR|2020|
 ## Planning
-|Title|Method(Code)|Journal/Conference|Year|
+|Title|Method (code)|Journal / Conference|Year|
 |:---|:---|:---|:---|
 |[Cross-Scenario End-to-End Motion Planning in Off-Road Environment: A Lifelong Learning Perspective](https://ieeexplore.ieee.org/abstract/document/10839320)|-|IEEE RA-L|2025|
 |[Human-guided continual learning for personalized decision-making of autonomous driving](https://ieeexplore.ieee.org/abstract/document/10844014/)|-|IEEE T-ITS|2025|
@@ -57,13 +57,13 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Lifelong federated reinforcement learning: A learning architecture for navigation in cloud robotic systems](https://arxiv.org/pdf/1901.06455)|LFRL|IEEE RA-L|2019|
 |[Incremental lifelong deep learning for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/8569992/)|CBIL|IEEE ITSC|2018|
 ## Motion control
-|Title|Method(Code)|Journal/Conference|Year|
+|Title|Method (code)|Journal / Conference|Year|
 |:---|:---|:---|:---|
 |[Beyond imitation: A life-long policy learning framework for path tracking control of autonomous driving](https://arxiv.org/pdf/2404.17198)|LLPL|IEEE T-VT|2024|
 |[Continual reinforcement learning for autonomous driving with application on velocity control under various environment](https://drive.google.com/file/d/1JC269VOTrBDnEGDuO6SI5UHJ2OPe1q3P/view)|EM-SAC|CVCI|2023|
 |[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 ## Dataset
-|Title|Resource Link|Journal/Conference|Year|
+|Title|Resource Link|Journal / Conference|Year|
 |:---|:---|:---|:---|
 |[Coda: A real-world road corner case dataset for object detection in autonomous driving](https://arxiv.org/pdf/2203.07724)|[CODA](https://coda-dataset.github.io/)|ECCV|2022|
 |[Alita: A large-scale incremental dataset for long-term autonomy](https://arxiv.org/pdf/2205.10737)|[ALITA](https://metaslam.github.io/datasets/alita/)|arXiv|2022|
@@ -92,7 +92,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Crowds by example](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3921f459a9ee26827963abc4abf013b4cc9cbd32)|[UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)|Computer Graphics Forum|2007|
 |[The next generation simulation program](https://www.proquest.com/openview/25734e9b4c6254af9247b4fd888ef86e/1?pq-origsite=gscholar&cbl=42116)|[NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj/about_data)|ITE|2004|
 ## Simulator
-|Title|Resource Link|Journal/Conference|Year|
+|Title|Resource Link|Journal / Conference|Year|
 |:---|:---|:---|:---|
 |[Lgsvl simulator: A high fidelity simulator for autonomous driving](https://arxiv.org/pdf/2005.03778)|[LGSVL](https://github.com/lgsvl/simulator)|IEEE ITSC|2020|
 |[Gibson env: Real-world perception for embodied agents](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_Gibson_Env_Real-World_CVPR_2018_paper.pdf)|[Gibson](https://github.com/StanfordVL/GibsonEnv)|CVPR|2018|
