@@ -2,10 +2,12 @@
 
 This is the official repository of paper _''A Survey on Lifelong Learning for Autonomous Vehicles: Methods, Benchmarks, Challenges and Future Directions'', Yunlong Lin, Sizhe Fan, Tongshuai Wu, Chao Lu, and Jianwei Gong_. The paper is submitted to the journal _IEEE Transactions on Pattern Analysis and Machine Intelligence_ for peer review.
 
-![Framework of the survey](./Fig_overview.png)
 
 
-## Perception
+
+
+## Lifelong Learning Methods for Autonomous Vehicles
+### Perception
 |Title|Method(code)|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Adaptive Robot Traversability Estimation Based on Self-supervised Online Continual Learning in Unstructured Environments](https://ieeexplore.ieee.org/abstract/document/10494895)|[ARTE](https://github.com/RuiYang-1010/lstol)|IEEE RA-L|2024|
@@ -19,7 +21,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Few-shot Class-incremental Learning via Compact and Separable Features for Fine-grained Vehicle Recognition](https://ieeexplore.ieee.org/abstract/document/9780261)|CSFL|IEEE T-ITS|2022|
 |[CLAIRE: Enabling Continual Learning for Real-Time Autonomous Driving with a Dual-head Architecture](https://par.nsf.gov/servlets/purl/10357064)|CLAIRE|ISORC|2022|
 |[Continual Learning Strategy in One-stage Object Detection Framework based on Experience Replay for Autonomous Driving Vehicle](https://www.mdpi.com/1424-8220/20/23/6777/pdf)|ER-YOLO|Sensors|2020|
-## Localization
+### Localization
 |Title|Method(code)|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[CCL: Continual contrastive learning for LiDAR place recognition](https://arxiv.org/pdf/2303.13952)|[CCL](https://github.com/cloudcjf/ccl)|IEEE RA-L|2023|
@@ -28,7 +30,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[code](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
 |[Continual slam: Beyond lifelong simultaneous localization and mapping through continual learning](https://arxiv.org/pdf/2203.01578)|[CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)|ISRR|2022|
 |[Cross-scene loop-closure detection with continual learning for visual simultaneous localization and mapping](https://journals.sagepub.com/doi/pdf/10.1177/17298814211050560)|-|IJARS|2021|
-## Prediction
+### Prediction
 |Title|Method(code)|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Continual Learning for Motion Prediction Model via Meta-Representation Learning and Optimal Memory Buffer Retention Strategy](openaccess.thecvf.com/content/CVPR2024/papers/Kang_Continual_Learning_for_Motion_Prediction_Model_via_Meta-Representation_Learning_and_CVPR_2024_paper.pdf)|-|CVPR|2024|
@@ -43,7 +45,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Continual pedestrian trajectory learning with social generative replay](https://research.tue.nl/files/273673573/Continual_Pedestrian_Trajectory_Learning_With_Social_Generative_Replay.pdf)|[CL-SGR](https://github.com/tue-mps/cptl_with_social_gr)|IEEE RA-L|2022|
 |[Continual multi-agent interaction behavior prediction with conditional generative memory](https://jiachenli94.github.io/publications/Mix/RAL2021.pdf)|C-GenMem|IEEE RA-L|2021|
 |[SILA: An incremental learning approach for pedestrian trajectory prediction](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w66/Habibi_SILA_An_Incremental_Learning_Approach_for_Pedestrian_Trajectory_Prediction_CVPRW_2020_paper.pdf)|SILA|CVPR|2020|
-## Planning
+### Planning
 |Title|Method(code)|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Cross-Scenario End-to-End Motion Planning in Off-Road Environment: A Lifelong Learning Perspective](https://ieeexplore.ieee.org/abstract/document/10839320)|-|IEEE RA-L|2025|
@@ -56,13 +58,16 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[Motion planning networks: Bridging the gap between learning-based and classical motion planners](https://arxiv.org/pdf/1907.06013)|[MPNet](https://github.com/ahq1993/MPNet)|IEEE T-RO|2020|
 |[Lifelong federated reinforcement learning: A learning architecture for navigation in cloud robotic systems](https://arxiv.org/pdf/1901.06455)|LFRL|IEEE RA-L|2019|
 |[Incremental lifelong deep learning for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/8569992/)|CBIL|IEEE ITSC|2018|
-## Motion control
+### Motion control
 |Title|Method(code)|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Beyond imitation: A life-long policy learning framework for path tracking control of autonomous driving](https://arxiv.org/pdf/2404.17198)|LLPL|IEEE T-VT|2024|
 |[Continual reinforcement learning for autonomous driving with application on velocity control under various environment](https://drive.google.com/file/d/1JC269VOTrBDnEGDuO6SI5UHJ2OPe1q3P/view)|EM-SAC|CVCI|2023|
 |[Self-improving semantic perception for indoor localisation](https://proceedings.mlr.press/v164/blum22a/blum22a.pdf)|[-](https://github.com/ethz-asl/background_foreground_segmentation)|CoRL|2022|
-## Dataset
+
+
+## Used Benchmarks in Lifelong Learning Studies for Autonomous Vehicles
+### Dataset
 |Title|Resource Link|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Coda: A real-world road corner case dataset for object detection in autonomous driving](https://arxiv.org/pdf/2203.07724)|[CODA](https://coda-dataset.github.io/)|ECCV|2022|
@@ -91,7 +96,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[You'll never walk alone: Modeling social behavior for multi-target tracking](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/pellegrini09iccv.pdf)|[ETH](https://data.vision.ee.ethz.ch/cvl/aem/ewap_dataset_full.tgz)|ICCV|2009|
 |[Crowds by example](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3921f459a9ee26827963abc4abf013b4cc9cbd32)|[UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)|Computer Graphics Forum|2007|
 |[The next generation simulation program](https://www.proquest.com/openview/25734e9b4c6254af9247b4fd888ef86e/1?pq-origsite=gscholar&cbl=42116)|[NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj/about_data)|ITE|2004|
-## Simulator
+### Simulator
 |Title|Resource Link|Journal/Conference|Year|
 |:---|:---|:---|:---|
 |[Lgsvl simulator: A high fidelity simulator for autonomous driving](https://arxiv.org/pdf/2005.03778)|[LGSVL](https://github.com/lgsvl/simulator)|IEEE ITSC|2020|
@@ -99,4 +104,24 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[CARLA: An open urban driving simulator](https://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)|[CARLA](https://github.com/carla-simulator/carla)|CoRL|2017|
 |[Design and use paradigms for gazebo, an open-source multi-robot simulator](https://web.archive.org/web/20170809185529id_/http://robotics.usc.edu/publications/media/uploads/pubs/394.pdf)|[Gazebo](https://gazebosim.org/home)|IRSO|2004|
 |Blender Simulator |[Blender](https://www.blender.org/download/releases/4-3/)|-|-|
+
+
+
+
+## Important Theoretical Studies for Lifelong Machine Learning (Continual/Incremental Learning)
+
+|Title|Journal/Conference|Year|
+|:---|:---|:---|
+|[Catastrophic Interference in Connectionist Networks: The Sequential Learning Problem](https://www.andywills.info/hbab/mccloskeycohen.pdf)|Psychology of learning and motivation|1989|
+|[Lifelong Robot Learning](https://www.ri.cmu.edu/pub_files/pub1/thrun_sebastian_1995_9/thrun_sebastian_1995_9.pdf)|Robotics and Autnonomous Systems|1994|
+|[Lifelong Machine Learning (Book)](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)|Morgan & Claypool Publishers|2018|
+|[Continual Learning for Robotics: Definition, Framework, Learning Strategies, Opportunities and Chanllenges](https://www.sciencedirect.com/science/article/am/pii/S1566253519307377)|Information Fusion|2020|
+|[Biological Underpinnings for Lifelong Leanring Machines](https://www.nature.com/articles/s42256-022-00452-0)|Nature Machine Intelligence|2022|
+|[A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/abstract/document/10444954/)|IEEE TPAMI|2024|
+|[Loss of Plasticity in Deep Continual Learning](https://www.nature.com/articles/s41586-024-07711-7)|Nature|2024|
+
+
+
+
+
 
