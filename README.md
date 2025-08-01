@@ -122,6 +122,7 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 
 # Contact
 If you have any questions or suggestions, please feel free to our main contributors:
+
 Yunlong Lin (jacklyl.bit@gmail.com or yunlonglin@bit.edu.cn)
 
 
