@@ -120,7 +120,9 @@ This is the official repository of paper _''A Survey on Lifelong Learning for Au
 |[A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/abstract/document/10444954/)|IEEE TPAMI|2024|
 |[Loss of Plasticity in Deep Continual Learning](https://www.nature.com/articles/s41586-024-07711-7)|Nature|2024|
 
-
+# Contact
+If you have any questions or suggestions, please feel free to our main contributors:
+Yunlong Lin (jacklyl.bit@gmail.com or yunlonglin@bit.edu.cn)
 
 
 
